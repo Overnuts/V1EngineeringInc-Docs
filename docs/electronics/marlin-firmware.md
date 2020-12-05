@@ -20,9 +20,9 @@ firmware to the place it is now.
 
 ??? "Dual Endstops & Auto squaring"
     This is an advanced feature and the information will be kept separately for the time being,
-    [HERE](../electronics/dual-endstops).
+    [HERE](../dual-endstops).
 
-### GitHub Firmware
+### GitHub Firmwar
 
 The newest "stable" release we have been working on are found at the link below. These files are preconfigured for various control boards and machine configurations.
 
